@@ -1,0 +1,21 @@
+version: '2'
+services:
+  server:
+    image: emilevauge/whoami
+    ports:
+      - "8080:80"
+  
+  client:
+    image: tutum/curl
+    depends_on:
+      - server
+    command:
+      - curl
+      - --fail
+      - --silent
+      - --show-error
+      - --retry
+      - "2"
+      - --retry-delay
+      - "3"
+      - server
