@@ -525,122 +525,122 @@
 		{
 			"checksumSHA1": "+pgwrsaF8smEURiSxfUY/6fqNWY=",
 			"path": "github.com/docker/libcompose/config",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "l59JNT7j0iiVGXImbHHJl6J4ALU=",
 			"path": "github.com/docker/libcompose/docker",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "2Z4AvgJVtiUFfBf/xa0hriwgCiM=",
 			"path": "github.com/docker/libcompose/docker/auth",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "/hoGu7q5mZGeGBK77jsXmlgVDTg=",
 			"path": "github.com/docker/libcompose/docker/builder",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "dftCRN2d0T4hQfd3PDKCRJ1cXCU=",
 			"path": "github.com/docker/libcompose/docker/client",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "Du3G1BI66TK6xaMkyr+cjdm4+DQ=",
 			"path": "github.com/docker/libcompose/docker/container",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "E/Yeh/Foaf2E5wV4k1qePyxO/6o=",
 			"path": "github.com/docker/libcompose/docker/ctx",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "cegQncsEmErNnSoCicnW40ZnFBk=",
 			"path": "github.com/docker/libcompose/docker/image",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "50VSeJtGQYEc7RL0b0WJPa3Xykw=",
 			"path": "github.com/docker/libcompose/docker/network",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
-			"checksumSHA1": "sbmb+QEUJbI6B5FMuwZp1PNQtd0=",
+			"checksumSHA1": "zbOn/feoePbEqZxprf/WzbwQT5U=",
 			"path": "github.com/docker/libcompose/docker/service",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "e03TVtPwKVMoWHFUqgCLFJuJm0g=",
 			"path": "github.com/docker/libcompose/docker/volume",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "RBQ4I+c50accv5FLpKkAeVbT4BY=",
 			"path": "github.com/docker/libcompose/labels",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "635R+wC6jYGKTjArxcWQgl8EX+k=",
 			"path": "github.com/docker/libcompose/logger",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "1anerMMuXaHE7MgEMxg+LcnMBEQ=",
 			"path": "github.com/docker/libcompose/lookup",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "uQYQydZ6mQSBJSoJGGkPbP5YPE0=",
 			"path": "github.com/docker/libcompose/project",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "3LdK/2uX/CPy6LbS+L5br01OLUE=",
 			"path": "github.com/docker/libcompose/project/events",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "tsu/Oc8QrvttXQ9EvQKttO2M6Yg=",
 			"path": "github.com/docker/libcompose/project/options",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "u9BSKHGGjI8sAf2P7R2K7Pe8oCk=",
 			"path": "github.com/docker/libcompose/utils",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "QN7We7xZy/j9wvyBY/4amFYhMO4=",
 			"path": "github.com/docker/libcompose/version",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "SL+jCUHHU7clR330N6qe3O0Csek=",
 			"path": "github.com/docker/libcompose/yaml",
-			"revision": "0ad950cbeb3d72107613dd220b5e9d7e001b890b",
-			"revisionTime": "2017-07-03T17:04:54Z"
+			"revision": "1b708aac26a4fc6f9bff31728a8e3a252ef57dbd",
+			"revisionTime": "2017-07-10T12:23:34Z"
 		},
 		{
 			"checksumSHA1": "R/AFcZejgkici3WnvfaZ+2IIPQE=",
@@ -781,5 +781,5 @@
 			"revisionTime": "2017-04-07T17:21:22Z"
 		}
 	],
-	"rootPath": "github.com/timoreimann/libcompose-test"
+	"rootPath": "github.com/timoreimann/libcomposetest"
 }
