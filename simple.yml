@@ -19,3 +19,8 @@ services:
       - --retry-delay
       - "3"
       - server
+
+networks:
+  default:
+    external:
+      name: ext_network
